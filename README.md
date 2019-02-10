@@ -1,4 +1,4 @@
 # JAVA_project
-Andorid project - EggTimer  
+Andorid app - EggTimer  
 Andorid game - gameConnect3  
 Junit/Selenium/Spring boot project - myJunit
